@@ -1,0 +1,60 @@
+.header{
+
+    background-color: aqua;
+    padding: 10px;
+}
+
+/* style the top nav*/
+
+
+.topnav{
+
+    overflow: hidden;
+    background-color:black;
+
+}
+
+/* style the top nav*/
+
+.topnav a{
+
+    float: left;
+    color: aliceblue;
+    display: block;
+    text-align: center;
+    padding: 18px 100px;
+    text-decoration: none;
+}
+
+.topnav a:hover{
+    background-color:aqua;
+    color: white;
+
+}
+
+
+/*style the middle class*/
+
+.column.middle{ padding: 10px;
+    height: 70vh;
+    width: 70vw;
+
+
+}
+
+
+
+
+.footer{
+    background-color: black;
+    padding: 7px;
+    text-align: center;
+    color: aliceblue;
+}
+
+
+.responsive{
+    width: 90%; 
+    height:auto ;
+}
+
